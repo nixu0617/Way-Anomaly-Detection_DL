@@ -41,7 +41,7 @@ Utilize U-Net model and YOLO object detection model based on the CNN deep learni
 
 - Image Through Anomaly Detection AutoEncoder Model
 
-<img width="477" alt="Screen Shot 2023-09-26 at 16 53 22" src="https://github.com/nixu0617/Way-Anomaly-Detection_DL/assets/145882602/0478a6ce-ec48-46b2-bb4c-1f03bdd3ad69">
+<img width="477" alt="Screen Shot 2023-09-26 at 16 53 22" src="https://github.com/nixu0617/Way-Anomaly-Detection_DL/assets/145882602/f23cd8c7-727a-46c9-a5a5-ed3dac51f4d1">
 
 
 
