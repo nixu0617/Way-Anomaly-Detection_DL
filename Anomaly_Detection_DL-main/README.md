@@ -29,20 +29,27 @@ We aim to develop a model specifically tailored for autonomous driving scenarios
 Utilize U-Net model and YOLO object detection model based on the CNN deep learning algorithms, in combination with an Autoencoder, to identify anomalies in complex open source Waymo dataset. The Autoencoder can thus help us pinpoint regions of interest that may be recognized as anomalous and are then run through a segmentation model. The segmentation model allows a clean and clear visualization of a pixel-level acurate border-representation of the anomalous object. This innovative approach allows us to achieve accurate anomaly detection and localization within real-world scenarios in a 2D space.
 
 - Initial Image
+  
+![origin](https://github.com/nixu0617/Way-Anomaly-Detection_DL/assets/145882602/ca25ef80-7749-47de-a602-072f2ec1a655)
 
-![test](https://github.com/nixu0617/Way-Anomaly-Detection_DL/assets/145882602/87098a82-8dda-42f6-b7d2-c433d4f5ec59)
+
 
 - Image Through Object Detection YOLO Model
 
-![download](https://github.com/nixu0617/Way-Anomaly-Detection_DL/assets/145882602/19b8d0be-f51f-4284-b951-c28ceb5c35ab)
+![yolo](https://github.com/nixu0617/Way-Anomaly-Detection_DL/assets/145882602/9b152e98-9947-46e6-a12e-c3d2105f6325)
+
 
 - Image Through Anomaly Detection AutoEncoder Model
-![download (1)](https://github.com/nixu0617/Way-Anomaly-Detection_DL/assets/145882602/e9694cb3-281c-4b33-9c3c-3b791e84d429)
+
+<img width="477" alt="Screen Shot 2023-09-26 at 16 53 22" src="https://github.com/nixu0617/Way-Anomaly-Detection_DL/assets/145882602/0478a6ce-ec48-46b2-bb4c-1f03bdd3ad69">
+
 
 
 - Image Through Semantic Segmentation U-Net Model
+  
+![unet](https://github.com/nixu0617/Way-Anomaly-Detection_DL/assets/145882602/c01a1857-c7b3-4668-b701-1b5a536f4be6)
 
-![seg](https://github.com/nixu0617/Way-Anomaly-Detection_DL/assets/145882602/b25915f3-54ea-4446-b6e7-ce9ecf16860f)
+
 
 ---------------------------
 ## How to use code
