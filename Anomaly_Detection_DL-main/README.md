@@ -5,7 +5,7 @@ Capstone Project - Unviersity of Michigan Master's of Applied Data Science (MADS
 
 ## Summary Poster
 
-![Anomaly Detection - Poster](https://github.com/nixu0617/Anomaly_Detection_DL/assets/145882602/34f7dab0-faa4-4a29-93c8-817ca4ee2f38)
+![Anomaly Detection - Poster](https://github.com/nixu0617/Way-Anomaly-Detection_DL/assets/145882602/fe2c95ed-0be7-4cdc-819a-f379c781ad9a)
 
 
 ## Accessing the Data
